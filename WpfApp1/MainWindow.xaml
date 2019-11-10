@@ -165,7 +165,7 @@
                 <RowDefinition Height="20*"></RowDefinition>
             </Grid.RowDefinitions>
             <TextBlock VerticalAlignment="Center" Grid.Column="0" Grid.ColumnSpan="2" Grid.RowSpan="2" FontSize="30" TextWrapping="WrapWithOverflow" FontWeight="Black"  Canvas.Top="15" RenderTransformOrigin="0.441,0.063"><Run Text="SIMPLE"/><LineBreak/><Run Text="BATCH"/><LineBreak/><Run Text="RENAMER"/></TextBlock>
-            <ToggleButton Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2"  Name="ModeButton" Margin="0 15 0 15" Click="FileMode_OnClick">
+            <ToggleButton  Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2"  Name="ModeButton" Margin="0 15 0 15" Click="FileMode_OnClick">
                 <ToggleButton.Style>
                     <Style TargetType="{x:Type ToggleButton}">
                         <Setter Property="Foreground" Value="White"></Setter>
@@ -631,7 +631,7 @@
             </ToggleButton.Resources>
         </ToggleButton>
 
-        <Button HorizontalAlignment="Right" VerticalAlignment="Bottom" Grid.Column="12" Grid.Row="1" Name="GetHelpButton" BorderBrush="Transparent" Background="Transparent" Canvas.Left="146" Height="25" Width="25" Margin="0 0 0 20" >
+        <Button HorizontalAlignment="Right" VerticalAlignment="Bottom" Grid.Column="12" Grid.Row="1" x:Name="AboutButton" BorderBrush="Transparent" Background="Transparent" Canvas.Left="146" Height="25" Width="25" Margin="0 0 0 20" Click="AboutButton_Click" >
             <Image Source="Images/info.png" Height="23" Width="23"></Image>
         </Button>
 
