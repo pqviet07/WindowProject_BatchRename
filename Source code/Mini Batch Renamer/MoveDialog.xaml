@@ -1,0 +1,14 @@
+﻿<Window x:Class="WpfApp1.MoveDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MoveDialog" Height="300" Width="300" ResizeMode="NoResize">
+    <Canvas>
+        <Label Content="THAY ĐỔI VỊ TRÍ" FontSize="19" HorizontalAlignment="Center" VerticalAlignment="Top" Height="35" Width="151" Canvas.Left="67" Canvas.Top="23"/>
+        <TextBlock Canvas.Left="23" TextWrapping="Wrap" Text="Độ dài ISBN" Canvas.Top="88"/>
+        <TextBox Height="16" Canvas.Left="97" TextWrapping="Wrap" Canvas.Top="88" Width="164" Name="LengthISBN"/>
+        <RadioButton Content="Số ISBN nằm trước" HorizontalAlignment="Center" VerticalAlignment="Top" Canvas.Left="45" Canvas.Top="131" Name="RadioButton1"/>
+        <RadioButton Content="Số ISBN nằm sau" HorizontalAlignment="Center" VerticalAlignment="Top" Canvas.Left="45" Canvas.Top="173" Height="36" Width="216" Name="RadioButton2"/>
+        <Button Content="Cancel" IsCancel="True" Canvas.Left="49" Canvas.Top="219" Width="75"/>
+        <Button Content="OK" Canvas.Left="163" Canvas.Top="219" Width="75" Name="OkButton" Click="OkButton_Click"/>
+    </Canvas>
+</Window>

@@ -1,0 +1,14 @@
+﻿<Window x:Class="WpfApp1.ReplaceDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ReplaceDialog" Height="300" Width="300" ResizeMode="NoResize">
+    <Canvas>
+        <Label Content="CHỌN TỪ ĐỂ THAY THẾ" FontSize="19" HorizontalAlignment="Center" VerticalAlignment="Top" Height="38" Width="214" Canvas.Left="49" Canvas.Top="26"/>
+        <TextBlock Canvas.Left="23" TextWrapping="Wrap" Text="Từ cần thay thế" Canvas.Top="88"/>
+        <TextBox Height="17" Canvas.Left="118" TextWrapping="Wrap" Canvas.Top="87" Width="145" Name="OldString"/>
+        <TextBlock Canvas.Left="23" TextWrapping="Wrap" Text="Từ thay thế" Canvas.Top="125"/>
+        <TextBox Height="17" Canvas.Left="118" TextWrapping="Wrap" Canvas.Top="124" Width="145" Name="NewString"/>
+        <Button Content="Cancel" IsCancel="True" Canvas.Left="49" Canvas.Top="187" Width="75" Name="CancelButton"/>
+        <Button Content="OK" Canvas.Left="163" Canvas.Top="187" Width="75" Name="OkButton" Click="OkButton_Click"/>
+    </Canvas>
+</Window>

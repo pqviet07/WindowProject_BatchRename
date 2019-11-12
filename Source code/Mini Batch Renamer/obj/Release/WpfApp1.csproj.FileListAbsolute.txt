@@ -12,31 +12,46 @@ C:\Users\VinhCute\source\repos\WpfApp1\obj\Release\WpfApp1.csproj.GenerateResour
 C:\Users\VinhCute\source\repos\WpfApp1\obj\Release\WpfApp1.csproj.CoreCompileInputs.cache
 C:\Users\VinhCute\source\repos\WpfApp1\obj\Release\WpfApp1.exe
 C:\Users\VinhCute\source\repos\WpfApp1\obj\Release\WpfApp1.pdb
-C:\Users\QUOCVIET\Desktop\window\WindowProject_BatchRename\WpfApp1\bin\Release\WpfApp1.exe.config
-C:\Users\QUOCVIET\Desktop\window\WindowProject_BatchRename\WpfApp1\bin\Release\WpfApp1.exe
-C:\Users\QUOCVIET\Desktop\window\WindowProject_BatchRename\WpfApp1\bin\Release\WpfApp1.pdb
-C:\Users\QUOCVIET\Desktop\window\WindowProject_BatchRename\WpfApp1\obj\Release\WpfApp1.csprojAssemblyReference.cache
-C:\Users\QUOCVIET\Desktop\window\WindowProject_BatchRename\WpfApp1\obj\Release\MainWindow.baml
-C:\Users\QUOCVIET\Desktop\window\WindowProject_BatchRename\WpfApp1\obj\Release\MainWindow.g.cs
-C:\Users\QUOCVIET\Desktop\window\WindowProject_BatchRename\WpfApp1\obj\Release\App.g.cs
-C:\Users\QUOCVIET\Desktop\window\WindowProject_BatchRename\WpfApp1\obj\Release\WpfApp1_MarkupCompile.cache
-C:\Users\QUOCVIET\Desktop\window\WindowProject_BatchRename\WpfApp1\obj\Release\WpfApp1.g.resources
-C:\Users\QUOCVIET\Desktop\window\WindowProject_BatchRename\WpfApp1\obj\Release\WpfApp1.Properties.Resources.resources
-C:\Users\QUOCVIET\Desktop\window\WindowProject_BatchRename\WpfApp1\obj\Release\WpfApp1.csproj.GenerateResource.cache
-C:\Users\QUOCVIET\Desktop\window\WindowProject_BatchRename\WpfApp1\obj\Release\WpfApp1.csproj.CoreCompileInputs.cache
-C:\Users\QUOCVIET\Desktop\window\WindowProject_BatchRename\WpfApp1\obj\Release\WpfApp1.exe
-C:\Users\QUOCVIET\Desktop\window\WindowProject_BatchRename\WpfApp1\obj\Release\WpfApp1.pdb
-C:\Users\QUOCVIET\Desktop\window\WindowProject_BatchRename\Source code\Mini Batch Renamer\bin\Release\WpfApp1.exe.config
-C:\Users\QUOCVIET\Desktop\window\WindowProject_BatchRename\Source code\Mini Batch Renamer\bin\Release\WpfApp1.exe
-C:\Users\QUOCVIET\Desktop\window\WindowProject_BatchRename\Source code\Mini Batch Renamer\bin\Release\WpfApp1.pdb
-C:\Users\QUOCVIET\Desktop\window\WindowProject_BatchRename\Source code\Mini Batch Renamer\obj\Release\WpfApp1.csprojAssemblyReference.cache
-C:\Users\QUOCVIET\Desktop\window\WindowProject_BatchRename\Source code\Mini Batch Renamer\obj\Release\MainWindow.baml
-C:\Users\QUOCVIET\Desktop\window\WindowProject_BatchRename\Source code\Mini Batch Renamer\obj\Release\MainWindow.g.cs
-C:\Users\QUOCVIET\Desktop\window\WindowProject_BatchRename\Source code\Mini Batch Renamer\obj\Release\App.g.cs
-C:\Users\QUOCVIET\Desktop\window\WindowProject_BatchRename\Source code\Mini Batch Renamer\obj\Release\WpfApp1_MarkupCompile.cache
-C:\Users\QUOCVIET\Desktop\window\WindowProject_BatchRename\Source code\Mini Batch Renamer\obj\Release\WpfApp1.g.resources
-C:\Users\QUOCVIET\Desktop\window\WindowProject_BatchRename\Source code\Mini Batch Renamer\obj\Release\WpfApp1.Properties.Resources.resources
-C:\Users\QUOCVIET\Desktop\window\WindowProject_BatchRename\Source code\Mini Batch Renamer\obj\Release\WpfApp1.csproj.GenerateResource.cache
-C:\Users\QUOCVIET\Desktop\window\WindowProject_BatchRename\Source code\Mini Batch Renamer\obj\Release\WpfApp1.csproj.CoreCompileInputs.cache
-C:\Users\QUOCVIET\Desktop\window\WindowProject_BatchRename\Source code\Mini Batch Renamer\obj\Release\WpfApp1.exe
-C:\Users\QUOCVIET\Desktop\window\WindowProject_BatchRename\Source code\Mini Batch Renamer\obj\Release\WpfApp1.pdb
+C:\Users\ThinKING\Desktop\windows\WindowProject_BatchRename\WpfApp1\bin\Release\WpfApp1.exe.config
+C:\Users\ThinKING\Desktop\windows\WindowProject_BatchRename\WpfApp1\obj\Release\WpfApp1.exe
+C:\Users\ThinKING\Desktop\windows\WindowProject_BatchRename\WpfApp1\obj\Release\WpfApp1.pdb
+C:\Users\ThinKING\Desktop\windows\WindowProject_BatchRename\WpfApp1\bin\Release\WpfApp1.exe
+C:\Users\ThinKING\Desktop\windows\WindowProject_BatchRename\WpfApp1\bin\Release\WpfApp1.pdb
+C:\Users\ThinKING\Desktop\windows\WindowProject_BatchRename\WpfApp1\obj\Release\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\ThinKING\Desktop\windows\WindowProject_BatchRename\WpfApp1\obj\Release\FullnameNormalizeDialog.baml
+C:\Users\ThinKING\Desktop\windows\WindowProject_BatchRename\WpfApp1\obj\Release\MainWindow.baml
+C:\Users\ThinKING\Desktop\windows\WindowProject_BatchRename\WpfApp1\obj\Release\MoveDialog.baml
+C:\Users\ThinKING\Desktop\windows\WindowProject_BatchRename\WpfApp1\obj\Release\NewCaseDialog.baml
+C:\Users\ThinKING\Desktop\windows\WindowProject_BatchRename\WpfApp1\obj\Release\ReplaceDialog.baml
+C:\Users\ThinKING\Desktop\windows\WindowProject_BatchRename\WpfApp1\obj\Release\FullnameNormalizeDialog.g.cs
+C:\Users\ThinKING\Desktop\windows\WindowProject_BatchRename\WpfApp1\obj\Release\MainWindow.g.cs
+C:\Users\ThinKING\Desktop\windows\WindowProject_BatchRename\WpfApp1\obj\Release\MoveDialog.g.cs
+C:\Users\ThinKING\Desktop\windows\WindowProject_BatchRename\WpfApp1\obj\Release\NewCaseDialog.g.cs
+C:\Users\ThinKING\Desktop\windows\WindowProject_BatchRename\WpfApp1\obj\Release\ReplaceDialog.g.cs
+C:\Users\ThinKING\Desktop\windows\WindowProject_BatchRename\WpfApp1\obj\Release\App.g.cs
+C:\Users\ThinKING\Desktop\windows\WindowProject_BatchRename\WpfApp1\obj\Release\WpfApp1_MarkupCompile.cache
+C:\Users\ThinKING\Desktop\windows\WindowProject_BatchRename\WpfApp1\obj\Release\WpfApp1.g.resources
+C:\Users\ThinKING\Desktop\windows\WindowProject_BatchRename\WpfApp1\obj\Release\WpfApp1.Properties.Resources.resources
+C:\Users\ThinKING\Desktop\windows\WindowProject_BatchRename\WpfApp1\obj\Release\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\QUOCVIET\Desktop\Nop bai do an dem nay\WindowProject_BatchRename\Source code\Mini Batch Renamer\WpfApp1\bin\Release\WpfApp1.exe.config
+C:\Users\QUOCVIET\Desktop\Nop bai do an dem nay\WindowProject_BatchRename\Source code\Mini Batch Renamer\WpfApp1\bin\Release\WpfApp1.exe
+C:\Users\QUOCVIET\Desktop\Nop bai do an dem nay\WindowProject_BatchRename\Source code\Mini Batch Renamer\WpfApp1\bin\Release\WpfApp1.pdb
+C:\Users\QUOCVIET\Desktop\Nop bai do an dem nay\WindowProject_BatchRename\Source code\Mini Batch Renamer\WpfApp1\obj\Release\WpfApp1.csprojAssemblyReference.cache
+C:\Users\QUOCVIET\Desktop\Nop bai do an dem nay\WindowProject_BatchRename\Source code\Mini Batch Renamer\WpfApp1\obj\Release\FullnameNormalizeDialog.baml
+C:\Users\QUOCVIET\Desktop\Nop bai do an dem nay\WindowProject_BatchRename\Source code\Mini Batch Renamer\WpfApp1\obj\Release\MainWindow.baml
+C:\Users\QUOCVIET\Desktop\Nop bai do an dem nay\WindowProject_BatchRename\Source code\Mini Batch Renamer\WpfApp1\obj\Release\MoveDialog.baml
+C:\Users\QUOCVIET\Desktop\Nop bai do an dem nay\WindowProject_BatchRename\Source code\Mini Batch Renamer\WpfApp1\obj\Release\NewCaseDialog.baml
+C:\Users\QUOCVIET\Desktop\Nop bai do an dem nay\WindowProject_BatchRename\Source code\Mini Batch Renamer\WpfApp1\obj\Release\ReplaceDialog.baml
+C:\Users\QUOCVIET\Desktop\Nop bai do an dem nay\WindowProject_BatchRename\Source code\Mini Batch Renamer\WpfApp1\obj\Release\FullnameNormalizeDialog.g.cs
+C:\Users\QUOCVIET\Desktop\Nop bai do an dem nay\WindowProject_BatchRename\Source code\Mini Batch Renamer\WpfApp1\obj\Release\MainWindow.g.cs
+C:\Users\QUOCVIET\Desktop\Nop bai do an dem nay\WindowProject_BatchRename\Source code\Mini Batch Renamer\WpfApp1\obj\Release\MoveDialog.g.cs
+C:\Users\QUOCVIET\Desktop\Nop bai do an dem nay\WindowProject_BatchRename\Source code\Mini Batch Renamer\WpfApp1\obj\Release\NewCaseDialog.g.cs
+C:\Users\QUOCVIET\Desktop\Nop bai do an dem nay\WindowProject_BatchRename\Source code\Mini Batch Renamer\WpfApp1\obj\Release\ReplaceDialog.g.cs
+C:\Users\QUOCVIET\Desktop\Nop bai do an dem nay\WindowProject_BatchRename\Source code\Mini Batch Renamer\WpfApp1\obj\Release\App.g.cs
+C:\Users\QUOCVIET\Desktop\Nop bai do an dem nay\WindowProject_BatchRename\Source code\Mini Batch Renamer\WpfApp1\obj\Release\WpfApp1_MarkupCompile.cache
+C:\Users\QUOCVIET\Desktop\Nop bai do an dem nay\WindowProject_BatchRename\Source code\Mini Batch Renamer\WpfApp1\obj\Release\WpfApp1.g.resources
+C:\Users\QUOCVIET\Desktop\Nop bai do an dem nay\WindowProject_BatchRename\Source code\Mini Batch Renamer\WpfApp1\obj\Release\WpfApp1.Properties.Resources.resources
+C:\Users\QUOCVIET\Desktop\Nop bai do an dem nay\WindowProject_BatchRename\Source code\Mini Batch Renamer\WpfApp1\obj\Release\WpfApp1.csproj.GenerateResource.cache
+C:\Users\QUOCVIET\Desktop\Nop bai do an dem nay\WindowProject_BatchRename\Source code\Mini Batch Renamer\WpfApp1\obj\Release\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\QUOCVIET\Desktop\Nop bai do an dem nay\WindowProject_BatchRename\Source code\Mini Batch Renamer\WpfApp1\obj\Release\WpfApp1.exe
+C:\Users\QUOCVIET\Desktop\Nop bai do an dem nay\WindowProject_BatchRename\Source code\Mini Batch Renamer\WpfApp1\obj\Release\WpfApp1.pdb

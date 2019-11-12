@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\QUOCVIET\Desktop\New folder\UI\UI\WpfApp1\obj\Debug\
+C:\Users\ThinKING\Desktop\windows\WindowProject_BatchRename\WpfApp1\obj\Debug\
 WpfApp1
 none
 false
 DEBUG;TRACE
-C:\Users\QUOCVIET\Desktop\New folder\UI\UI\WpfApp1\App.xaml
-11151548125
+C:\Users\ThinKING\Desktop\windows\WindowProject_BatchRename\WpfApp1\App.xaml
+5-2120415150
 
-9-1480438662
-14-1175798665
-MainWindow.xaml;
+14919614088
+14-1609446650
+FullnameNormalizeDialog.xaml;MainWindow.xaml;MoveDialog.xaml;NewCaseDialog.xaml;ReplaceDialog.xaml;
 
 False
 

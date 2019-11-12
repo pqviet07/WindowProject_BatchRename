@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\QUOCVIET\Desktop\window\WindowProject_BatchRename\Source code\Mini Batch Renamer\obj\Debug\
+C:\Users\QUOCVIET\Desktop\Nop bai do an dem nay\WindowProject_BatchRename\Source code\Mini Batch Renamer\WpfApp1\obj\Debug\
 WpfApp1
 none
 false
 DEBUG;TRACE
-C:\Users\QUOCVIET\Desktop\window\WindowProject_BatchRename\Source code\Mini Batch Renamer\App.xaml
-11151548125
+C:\Users\QUOCVIET\Desktop\Nop bai do an dem nay\WindowProject_BatchRename\Source code\Mini Batch Renamer\WpfApp1\App.xaml
+5-2120415150
 
-5-2017746502
-14-1175798665
-MainWindow.xaml;
+141071513198
+14-1609446650
+FullnameNormalizeDialog.xaml;MainWindow.xaml;MoveDialog.xaml;NewCaseDialog.xaml;ReplaceDialog.xaml;
 
 False
 

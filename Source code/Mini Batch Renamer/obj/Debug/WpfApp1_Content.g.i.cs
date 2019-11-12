@@ -8,11 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/bottom.svg")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/clear-24px.svg")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/delete.svg")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/down.svg")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/top.svg")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/up.svg")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/preview.png")]
 
 
